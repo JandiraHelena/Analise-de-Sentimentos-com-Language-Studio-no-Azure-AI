@@ -1,0 +1,22 @@
+azure-speech-language-lab/
+│
+├── README.md                # Documentação principal do projeto
+├── anotacoes/               # Notas e insights adquiridos
+│   ├── speech_studio.md
+│   ├── language_studio.md
+│   └── integracao.md
+│
+├── exemplos/                # Exemplos práticos de uso
+│   ├── transcricao_audio/
+│   ├── analise_sentimentos/
+│   └── chatbot_nlp/
+│
+├── recursos/                # Material de apoio
+│   ├── links.md
+│   ├── artigos.md
+│   └── tutoriais.md
+│
+└── resultados/              # Outputs gerados
+    ├── transcricoes/
+    ├── modelos/
+    └── relatorios/
